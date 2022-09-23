@@ -1,0 +1,29 @@
+.card {
+    background-color: #282828;
+    ;
+    max-width: 600px;
+}
+
+p {
+    font-size: medium;
+}
+
+span {
+    font-size: medium;
+}
+
+.card-name {
+    font-size: larger;
+    color: #3500D3;
+    font-weight: 700;
+}
+
+.card-world {
+    color: #240090;
+    font-weight: 500;
+}
+
+.card-SuperPower {
+    color: #240090;
+    font-weight: 500;
+}
