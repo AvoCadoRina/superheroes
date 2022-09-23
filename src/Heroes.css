@@ -1,0 +1,38 @@
+.card {
+    background-color: #282828;
+    margin: 10px;
+    width: 40%;
+}
+
+p {
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.card-name {
+    font-size: larger;
+    color: #3500D3;
+    font-weight: 700;
+}
+
+.card-body {
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    height: 200px;
+}
+
+.card-world {
+    font-weight: 500;
+}
+
+.card-SuperPower {
+    font-weight: 500;
+}
+
+.card-AddInfo {
+    font-style: italic;
+    font-weight: 300;
+}
